@@ -98,7 +98,7 @@ Instructions for generating high-quality Angular applications with TypeScript, u
 - Follow the Angular Style Guide for file naming conventions (see https://angular.dev/style-guide), e.g., use `feature.ts` for components and `feature-service.ts` for services. For legacy codebases, maintain consistency with existing pattern.
 - Use Angular CLI commands for generating boilerplate code
 - Document components and services with clear JSDoc comments
-- Ensure accessibility compliance (WCAG 2.1) where applicable
+- Ensure accessibility compliance (WCAG 2.2) where applicable
 - Use Angular's built-in i18n for internationalization (if specified)
 - Keep code DRY by creating reusable utilities and shared modules
 - Use signals consistently for state management to ensure reactive updates
