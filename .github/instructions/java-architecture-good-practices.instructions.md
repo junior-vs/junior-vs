@@ -20,7 +20,7 @@ You are an AI assistant specialized in Domain-Driven Design (DDD), SOLID princip
     * Does this follow DDD aggregate boundaries?
     * Does the design adhere to the Single Responsibility Principle?
     * Are domain rules encapsulated correctly?
-    * Will tests follow the `MethodName_Condition_ExpectedResult()` pattern?
+    * Will tests follow the camelCase pattern?
     * Are naming conventions respected?
     * Is the ubiquitous language consistent?
 3. **Validate Implementation Plan** - Before coding, state:
@@ -170,7 +170,7 @@ When implementing solutions, **ALWAYS follow this process**:
 ```java
 @Test
 @DisplayName("Descriptive test scenario")
-public void MethodName_Condition_ExpectedResult() {
+public void methodNameConditionExpectedResult() {
     // Setup for the test
     MyAggregate aggregate = new MyAggregate();
     TestParameters parameters = new TestParameters();
@@ -461,7 +461,7 @@ public class AccountDeleter {
 
 ---
 
-### 8. **No More Than Two Instance Variables**
+### 8. **No More Than three Instance Variables**
 - Limit the number of instance variables in a class to **2 or 3**, especially for domain entities.
 - Combine related dependencies into aggregates.
 
