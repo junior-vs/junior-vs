@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 <!--
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b44c9a121d95ebc0e2d590a216444783)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=junior-vs&theme=radical"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-vs&)](https://github.com/anuraghazra/github-readme-stats)
 -->
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junior-vs&theme=github_dark"/>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junior-vs&theme=react-dark"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-vs&theme=onedark"/>
+
 
 ---
 
