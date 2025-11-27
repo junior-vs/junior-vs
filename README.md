@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<!--
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=junior-vs&theme=radical"/>
+-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-vs&theme=onedark"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junior-vs&theme=github_dark"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=junior-vs&theme=react-dark"/>
 
 ---
 
