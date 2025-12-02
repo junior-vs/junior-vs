@@ -1,15 +1,6 @@
 ### Hi there 👋
 
-<!--
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b44c9a121d95ebc0e2d590a216444783)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=junior-vs&theme=radical"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-vs&)](https://github.com/anuraghazra/github-readme-stats)
--->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junior-vs&theme=github_dark"/>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=junior-vs&theme=react-dark"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-vs&theme=onedark"/>
 
----
 - 🌱 I’m currently learning ...
   
 <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/><img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/><img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/><img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
@@ -21,6 +12,17 @@
 - 🤔 I'm keen to gain more knowledge on...
 
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
+
+---
+
+<!--
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b44c9a121d95ebc0e2d590a216444783)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=junior-vs&theme=radical"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-vs&)](https://github.com/anuraghazra/github-readme-stats)
+-->
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junior-vs&theme=github_dark"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=junior-vs&theme=react-dark"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-vs&theme=onedark"/>
 
 
 <!--
