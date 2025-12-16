@@ -18,13 +18,8 @@
 
 ---
 ## 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junior-vs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=junior-vs&theme=dark&hide_border=false)](https://git.io/streak-stats)<br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-vs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junior-vs&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br/>
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junior-vs&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)<br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-vs&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junior-vs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=junior-vs&theme=dark&hide_border=false)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-vs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junior-vs&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junior-vs&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-vs&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
 
 <!--
 **junior-vs/junior-vs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
